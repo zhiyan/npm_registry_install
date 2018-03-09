@@ -2,7 +2,7 @@
 
 ### 使用
 
-`curl -s https://github.com/zhiyan/npm_registry_install/raw/master/install.sh | sh`
+`curl -sL https://github.com/zhiyan/npm_registry_install/raw/master/install.sh | sh`
 
 ### 功能
 
